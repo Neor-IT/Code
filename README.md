@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineer+Student&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineer+Student&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000"/>
 </p>
 
 <div align="center">
@@ -35,4 +35,9 @@
   <a href="https://www.linkedin.com/in/neor/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
 
+<p align="center">
+  <a href="https://www.codewars.com/users/Neor">
+    <img src="https://www.codewars.com/users/Neor/badges/large" />
+  </a>
+</p>
 [![codewars](https://www.codewars.com/users/Neor/badges/large)](https://www.codewars.com/users/Neor)   
