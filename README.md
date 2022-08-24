@@ -4,11 +4,11 @@
 
 ### :man_technologist: Моє портфоліо :
 | Назва проєкту | Опис проєкту       | Посилання |
-| ------------- |:------------------:| ---------:|
-| Brute Force     | Система для підбору пароля на основі відомих даних про користувача    |   <a href="https://github.com/Neor-IT/Code/tree/BruteForce">BruteForce</a>     |
-| Чатбот в телеграм     | выровнен по центру |   <a href="https://github.com/Neor-IT/Code/tree/TG-ChatBot">Чатбот в телеграм</a>     |
-| Бот для створення QR-Кодів у телеграм  | прикольные         |   <a href="https://github.com/Neor-IT/Code/tree/qrcode-bot">Бот для створення QR-Кодів у телеграм</a> |
-| YouTube Downloader  | прикольные         |   <a href="https://github.com/Neor-IT/Code/tree/youtube-downloader">YouTube Downloader</a> |
+| ------------- |:------------------:| :---------|
+| Brute Force     | Система для підбору пароля на основі відомих даних про користувача    |   <a href="https://github.com/Neor-IT/Code/tree/BruteForce">BruteForce</a>|
+| Чат-бот у телеграм| Чат-бот у телеграм який використовує алгоритми машинного навчання для навчання на базі інтентів |   <a href="https://github.com/Neor-IT/Code/tree/TG-ChatBot">Чат-бот в телеграм</a>     |
+| Бот для створення QR-Кодів у телеграм  | Бот приймає на вхід зображення та текст і робить QR-Code з отриманим зображенням |   <a href="https://github.com/Neor-IT/Code/tree/qrcode-bot">Бот для створення QR-Кодів у телеграм</a> |
+| YouTube Downloader  | Програма з інтерфейсом на PyQt5, яка завантажує відео/аудіо з YouTube|   <a href="https://github.com/Neor-IT/Code/tree/youtube-downloader">YouTube Downloader</a> |
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
