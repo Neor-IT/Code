@@ -1,7 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+engineer+student)](https://git.io/typing-svg)
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+engineer+student&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineer+Student&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
 <div align="center">
