@@ -4,7 +4,7 @@ from pyzbar.pyzbar import decode
 from path import Path
 
 
-# Путь до картинки с QR кодом
+# шлях до зображення з QR кодом
 def read_qr_code(path_to_download: Path):
     try:
         img = Image.open(path_to_download)
