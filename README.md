@@ -3,8 +3,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-[![codewars](https://www.codewars.com/users/Neor/badges/large)](https://www.codewars.com/users/Neor)   
-
 ### :man_technologist: Моє портфоліо :
 | Назва проєкту | Опис проєкту       | Посилання |
 | ------------- |:------------------:| :---------|
@@ -20,3 +18,5 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/neor/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
+
+[![codewars](https://www.codewars.com/users/Neor/badges/large)](https://www.codewars.com/users/Neor)   
