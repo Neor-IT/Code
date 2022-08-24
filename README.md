@@ -39,5 +39,4 @@
   <a href="https://www.codewars.com/users/Neor">
     <img src="https://www.codewars.com/users/Neor/badges/large" />
   </a>
-</p>
-[![codewars](https://www.codewars.com/users/Neor/badges/large)](https://www.codewars.com/users/Neor)   
+</p> 
