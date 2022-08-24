@@ -2,7 +2,7 @@ import telebot
 from path import Path
 from main import gen_qr_code
 
-TOKEN = 'ВАШ API КЛЮЧ К БОТУ'
+TOKEN = 'ВАШ API КЛЮЧ'
 bot = telebot.TeleBot(TOKEN)
 
 
