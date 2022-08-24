@@ -231,7 +231,6 @@ class Assistant:
     def opener(self, task):
         links = {
             ('youtube', 'ютуб', 'ютюб'): 'https://youtube.com/',
-            ('вк', 'вконтакте', 'контакт', 'vk'): 'https:vk.com/feed',
             ('браузер', 'интернет', 'browser'): 'https://google.com/',
             ('insta', 'instagram', 'инста', 'инсту'): 'https://www.instagram.com/',
             ('почта', 'почту', 'gmail', 'гмейл', 'гмеил', 'гмаил'): 'http://gmail.com/',
