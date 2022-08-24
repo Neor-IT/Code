@@ -5,10 +5,10 @@
 ### :man_technologist: Моє портфоліо :
 | Назва проєкту | Опис проєкту       | Посилання |
 | ------------- |:------------------:| ---------:|
-| столбец 3     | выровнен вправо    |   <a href="https://github.com/Neor-IT/Code/tree/BruteForce">BruteForce</a>     |
-| столбец 2     | выровнен по центру |   <a href="https://github.com/Neor-IT/Code/tree/TG-ChatBot">Чатбот в телеграм</a>     |
-| зебра-строки  | прикольные         |   <a href="https://github.com/Neor-IT/Code/tree/qrcode-bot">Бот для створення QR-Кодів у телеграм</a>|
-| зебра-строки  | прикольные         |   <a href="https://github.com/Neor-IT/Code/tree/youtube-downloader">YouTube Downloader</a>|
+| Brute Force     | Система для підбору пароля на основі відомих даних про користувача    |   <a href="https://github.com/Neor-IT/Code/tree/BruteForce">BruteForce</a>     |
+| Чатбот в телеграм     | выровнен по центру |   <a href="https://github.com/Neor-IT/Code/tree/TG-ChatBot">Чатбот в телеграм</a>     |
+| Бот для створення QR-Кодів у телеграм  | прикольные         |   <a href="https://github.com/Neor-IT/Code/tree/qrcode-bot">Бот для створення QR-Кодів у телеграм</a> |
+| YouTube Downloader  | прикольные         |   <a href="https://github.com/Neor-IT/Code/tree/youtube-downloader">YouTube Downloader</a> |
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
