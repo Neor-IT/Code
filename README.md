@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" max-width="600" max-height="300"/>
 </div>
 
 ### :man_technologist: Моє портфоліо :
